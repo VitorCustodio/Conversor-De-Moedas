@@ -1,4 +1,4 @@
-# Conversor-De-Moedas
+# Conversor De Moedas
 
 Conversor de Moedas feito em Linguagem Pascal
 ========
